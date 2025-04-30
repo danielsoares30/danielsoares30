@@ -19,7 +19,7 @@ Email: danielsoares300907@gmail.com
 
 LinkedIn: Daniel Soares
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsoares30&show_icons=true&theme=radical)
 
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&background=1d1f21)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
