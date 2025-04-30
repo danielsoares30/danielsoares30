@@ -3,7 +3,7 @@ Sou aluno do Instituto Proa e estou no último ano do Ensino Médio. Apaixonado 
 
 💻 Tecnologias que estou aprendendo:
 
-Java, JavaScript, HTML, CSS
+Java, JavaScript, HTML, CSS, e SQL
 
 Desenvolvimento Web (React, Node.js)
 
