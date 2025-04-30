@@ -1,16 +1,22 @@
-## Hi there 👋
+Olá, eu sou o Daniel Soares 👋
+Sou aluno do Instituto Proa e estou no último ano do Ensino Médio. Apaixonado por tecnologia, busco sempre aprender novas ferramentas e aprimorar meus conhecimentos em programação e desenvolvimento.
 
-<!--
-**danielsoares30/danielsoares30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Tecnologias que estou aprendendo:
 
-Here are some ideas to get you started:
+Java, JavaScript, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvimento Web (React, Node.js)
+
+Banco de Dados (SQL, NoSQL)
+
+Inteligência Artificial
+
+🚀 Objetivo: Me tornar um desenvolvedor completo e contribuir com a comunidade de código aberto.
+
+📫 Me encontre em:
+
+Email: danielsoares300907@gmail.com
+
+LinkedIn: Daniel Soares
+
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile?username=danielsoares30&theme=dark)]()
