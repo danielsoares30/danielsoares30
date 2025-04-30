@@ -19,4 +19,9 @@ Email: danielsoares300907@gmail.com
 
 LinkedIn: Daniel Soares
 
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile?username=danielsoares30&theme=dark)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielsoares30&layout=compact)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
