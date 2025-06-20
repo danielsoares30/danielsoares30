@@ -17,14 +17,6 @@ Estou sempre explorando novas tecnologias. Atualmente, meu foco está em:
 - **Banco de Dados:** MySQL (relacional) e MongoDB (NoSQL).
 - **Áreas de Interesse:** Desenvolvimento Full-Stack e Inteligência Artificial.
 
-
-
-  ### ✨ Visualização 3D das minhas Contribuições
-
-<p align="center">
-  <img src="profile-3d-contrib.svg" alt="Visualização 3D das Contribuições"/>
-</p>
-
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
@@ -32,6 +24,14 @@ Estou sempre explorando novas tecnologias. Atualmente, meu foco está em:
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielsoares30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsoares30&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### ✨ Visualização 3D das minhas Contribuições
+
+<p align="center">
+  <img src="profile-3d-contrib.svg" alt="Visualização 3D das Contribuições"/>
 </p>
 
 ---
