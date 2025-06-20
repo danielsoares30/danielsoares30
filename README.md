@@ -17,6 +17,14 @@ Estou sempre explorando novas tecnologias. Atualmente, meu foco está em:
 - **Banco de Dados:** MySQL (relacional) e MongoDB (NoSQL).
 - **Áreas de Interesse:** Desenvolvimento Full-Stack e Inteligência Artificial.
 
+
+
+  ### ✨ Visualização 3D das minhas Contribuições
+
+<p align="center">
+  <img src="profile-3d-contrib.svg" alt="Visualização 3D das Contribuições"/>
+</p>
+
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
