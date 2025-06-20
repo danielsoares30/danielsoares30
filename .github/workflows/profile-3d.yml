@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@latest
-        with:
+        env: # <<< A CORREÇÃO ESTÁ AQUI! MUDAMOS DE "with" PARA "env"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
