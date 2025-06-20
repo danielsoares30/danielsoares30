@@ -1,58 +1,32 @@
-Olá, eu sou o Daniel Soares 👋
-Sou aluno do Instituto Proa e estou no último ano do Ensino Médio. Apaixonado por tecnologia, busco sempre aprender novas ferramentas e aprimorar meus conhecimentos em programação e desenvolvimento.
+👋 Olá, eu sou o Daniel Soares!
+&lt;p align="left">
+&lt;img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4d2N2cTlpNnI1YjV3cHBic2NscWlsejVob2F3Zmp1cWNjeHFuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY1V/giphy.gif" width="50px" />
+&lt;/p>
 
-💻 Tecnologias que estou aprendendo:
+Sou um entusiasta da tecnologia, atualmente cursando o último ano do Ensino Médio e aluno dedicado no Instituto Proa. Minha paixão é aprender constantemente e aprimorar minhas habilidades em programação e desenvolvimento de software. Busco me tornar um desenvolvedor completo, pronto para criar soluções inovadoras e contribuir ativamente com a comunidade de código aberto.
 
-Java, JavaScript, HTML, CSS, e SQL
+🚀 Tecnologias e Ferramentas
+Estou sempre explorando novas tecnologias. Atualmente, meu foco está em:
 
-Desenvolvimento Web (React, Node.js)
+&lt;p align="left">
+&lt;a href="https://skillicons.dev">
+&lt;img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,express,mysql,sqlite,mongodb" />
+&lt;/a>
+&lt;/p>
 
-Banco de Dados (SQL, NoSQL)
+Linguagens: Java, JavaScript, HTML, CSS e SQL.
+Desenvolvimento Web: React e Node.js.
+Banco de Dados: MySQL (relacional) e MongoDB (NoSQL).
+Áreas de Interesse: Desenvolvimento Full-Stack e Inteligência Artificial.
+📊 Minhas Estatísticas no GitHub
+&lt;p align="center">
+&lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/>
+&lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"/>
+&lt;/p>
 
-Inteligência Artificial
+📫 Como me encontrar:
+&lt;p align="left">
+&lt;a href="mailto:danielsoares300907@gmail.com" target="_blank">&lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>&lt;/a>
+&lt;a href="https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN" target="_blank">&lt;img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank" alt="LinkedIn"/>&lt;/a>
+&lt;/p>
 
-🚀 Objetivo: Me tornar um desenvolvedor completo e contribuir com a comunidade de código aberto.
-
-📫 Me encontre em:
-
-Email: danielsoares300907@gmail.com
-
-LinkedIn: Daniel Soares
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsoares30&show_icons=true&theme=dark)
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&background=1d1f21)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white&background=1d1f21)](https://www.mysql.com/)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&background=1d1f21)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white&background=1d1f21)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&background=1d1f21)](https://www.java.com/)
-
-
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
-    steps:
-      - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          if git commit -m "generated"; then
-            git push
-          fi
