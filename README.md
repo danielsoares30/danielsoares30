@@ -1,17 +1,15 @@
-👋 Olá, eu sou o Daniel Soares!
-&lt;p align="left">
-&lt;img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y4d2N2cTlpNnI1YjV3cHBic2NscWlsejVob2F3Zmp1cWNjeHFuZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpY1V/giphy.gif" width="50px" />
-&lt;/p>
+Claro! Atendendo ao seu pedido, removi o GIF inicial e o link dos ícones de tecnologia, deixando-os como imagens diretas.
 
+Aqui está a versão ajustada do seu README.md:
+
+👋 Olá, eu sou o Daniel Soares!
 Sou um entusiasta da tecnologia, atualmente cursando o último ano do Ensino Médio e aluno dedicado no Instituto Proa. Minha paixão é aprender constantemente e aprimorar minhas habilidades em programação e desenvolvimento de software. Busco me tornar um desenvolvedor completo, pronto para criar soluções inovadoras e contribuir ativamente com a comunidade de código aberto.
 
 🚀 Tecnologias e Ferramentas
 Estou sempre explorando novas tecnologias. Atualmente, meu foco está em:
 
 &lt;p align="left">
-&lt;a href="https://skillicons.dev">
 &lt;img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,express,mysql,sqlite,mongodb" />
-&lt;/a>
 &lt;/p>
 
 Linguagens: Java, JavaScript, HTML, CSS e SQL.
@@ -29,4 +27,3 @@ Banco de Dados: MySQL (relacional) e MongoDB (NoSQL).
 &lt;a href="mailto:danielsoares300907@gmail.com" target="_blank">&lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>&lt;/a>
 &lt;a href="https://www.linkedin.com/in/SEU-PERFIL-LINKEDIN" target="_blank">&lt;img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" target="_blank" alt="LinkedIn"/>&lt;/a>
 &lt;/p>
-
