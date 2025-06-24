@@ -27,15 +27,6 @@ Estou sempre explorando novas tecnologias. Atualmente, meu foco está em:
 </p>
 
 ---
-
-### ✨ Visualização 3D das minhas Contribuições
-
-<p align="center">
-  <img src="profile-3d-contrib.svg" alt="Visualização 3D das Contribuições"/>
-</p>
-
----
-
 ### 📫 Como me encontrar:
 
 <p align="left">
