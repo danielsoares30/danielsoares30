@@ -9,7 +9,7 @@ Sou um entusiasta da tecnologia, atualmente cursando o último ano do Ensino Mé
 Estou sempre explorando novas tecnologias. Atualmente, meu foco está em:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,springboot,javascript,html,css,react,mysql," />
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript,html,css,react,mysql" />
 </p>
 
 - **Linguagens:** Java, JavaScript, HTML, CSS e SQL.
