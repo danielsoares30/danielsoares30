@@ -9,12 +9,12 @@ Sou um entusiasta da tecnologia, atualmente cursando o último ano do Ensino Mé
 Estou sempre explorando novas tecnologias. Atualmente, meu foco está em:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,mysql," />
+  <img src="https://skillicons.dev/icons?i=java,springboot,javascript,html,css,react,mysql," />
 </p>
 
 - **Linguagens:** Java, JavaScript, HTML, CSS e SQL.
-- **Desenvolvimento Web:** React e Node.js.
-- **Banco de Dados:** MySQL (relacional) e MongoDB (NoSQL).
+- **Desenvolvimento Web:** React.
+- **Banco de Dados:** MySQL (relacional).
 - **Áreas de Interesse:** Desenvolvimento Full-Stack e Inteligência Artificial.
 
 ---
