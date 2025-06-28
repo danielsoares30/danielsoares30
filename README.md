@@ -12,7 +12,7 @@ Estou sempre explorando novas tecnologias. Atualmente, meu foco está em:
   <img src="https://skillicons.dev/icons?i=java,spring,javascript,html,css,react,mysql" />
 </p>
 
-- **Linguagens:** Java, JavaScript, HTML, CSS e SQL.
+- **Linguagens:** Java, Springboot, JavaScript, HTML, CSS e SQL.
 - **Desenvolvimento Web:** React.
 - **Banco de Dados:** MySQL (relacional).
 - **Áreas de Interesse:** Desenvolvimento Full-Stack e Inteligência Artificial.
